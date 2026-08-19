@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Metal Raptor FAA Part 108 regulatory intelligence dashboard">
+  <title>FAA Part 108 Regulatory Dashboard | Metal Raptor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main id="top">
+  <header class="topbar">
+    <a class="brand" href="#top"><img src="metal-raptor-logo.png" alt="Metal Raptor"><span class="dashboard-tag">PART 108<br>REGULATORY DASHBOARD</span></a>
+    <nav><a href="#milestones">Milestones</a><a href="#provisions">Provisions</a><a href="#actions">Actions</a><a href="#sources">Sources</a><button id="print">Export PDF</button></nav>
+  </header>
+  <div class="live-bar" id="live-bar"><div class="wrap"><span class="live-pulse"></span><strong>Official-source monitor</strong><span id="checked">Loading snapshot…</span><span id="next-check"></span><button id="reload">Reload latest data</button></div></div>
+
+  <section class="hero">
+    <div><p class="eyebrow">Regulatory intelligence · RIN 2120-AL82</p><h1>FAA Part 108<br><span>rulemaking tracker.</span></h1><p class="dek">A source-linked decision dashboard for resilient BVLOS connectivity and navigation infrastructure. Automated checks surface lifecycle events; substantive interpretation is human-reviewed.</p><div class="meta"><span>Prepared for <strong>Lee Priest</strong></span><span>Owner <strong>Metal Raptor</strong></span><span>Cadence <strong>6 hours</strong></span></div></div>
+    <aside class="review-card"><p class="label">Current stage</p><h2 id="stage">Final rule under OIRA review</h2><p>The NPRM is not a mandate. OIRA review is active; publication is the next decisive lifecycle event.</p><a href="https://www.reginfo.gov/public/do/eoDetails?rrid=1457213" target="_blank" rel="noreferrer">Open OIRA record ↗</a><div class="progress"><span></span></div><div class="progress-labels"><span>NPRM</span><strong>OIRA REVIEW</strong><span>FINAL RULE</span></div></aside>
+  </section>
+
+  <section class="wrap metrics">
+    <article><span class="status-dot yellow"></span><p>OVERALL STATUS</p><h3 id="overall">Yellow</h3><small>Active review; material uncertainty remains</small></article>
+    <article><p>DAYS AT OIRA</p><h3><span id="days">—</span> <em>days</em></h3><small>Received July 10, 2026</small></article>
+    <article><p>OIRA MEETINGS</p><h3 id="meeting-count">—</h3><small>Posted records detected</small></article>
+    <article><p>LATEST FEDERAL REGISTER</p><h3 id="latest-number">—</h3><small id="latest-date">Checking official API</small></article>
+  </section>
+
+  <section class="wrap brief"><div><p class="section-kicker">Executive summary</p><h2>What leadership needs to know.</h2></div><div class="readout"><p><strong>Stage:</strong> The final rule remains in Executive Order 12866 review at OIRA. This is pre-publication review, not an effective requirement.</p><p><strong>Change signal:</strong> <span id="change-summary">Loading verified changes…</span></p><p><strong>Metal Raptor:</strong> Continue positioning as provider-neutral resilience infrastructure spanning C2, PNT integrity, authenticated exchange, and fleet observability.</p><p class="automation-note">The tracker detects official lifecycle changes. It does not infer legal meaning from automated text changes.</p></div></section>
+
+  <section class="milestones section" id="milestones"><div class="wrap"><div class="section-head"><div><p class="section-kicker">Lifecycle</p><h2>Rulemaking milestones</h2></div><span class="confidence">HIGH CONFIDENCE · PRIMARY SOURCES</span></div><div class="timeline">
+    <article class="done"><time>07 AUG 2025</time><h3>NPRM published</h3><p>FAA and DOT proposed standardized BVLOS operations under Part 108 and service-provider rules under Part 146.</p><span>Completed</span></article>
+    <article class="done"><time>28 JAN 2026</time><h3>Limited comment reopening</h3><p>A Federal Register notice reopened comments on specific questions.</p><span>Completed</span></article>
+    <article class="done"><time>10 JUL 2026</time><h3>Final rule received by OIRA</h3><p>Executive Order 12866 regulatory review began.</p><span>Completed</span></article>
+    <article class="active"><time>NOW</time><h3>OIRA review and meetings</h3><p>Review remains active. Meeting records are monitored automatically.</p><span>Active</span></article>
+    <article><time>NEXT</time><h3>Final-rule publication</h3><p>Expected only after OIRA clearance and agency publication. No date is assumed.</p><span>Pending</span></article>
+    <article><time>THEN</time><h3>Effective and compliance dates</h3><p>Dates, guidance, waivers, and implementation actions must come from final text.</p><span>Unknown</span></article>
+  </div><p class="caveat">Status discipline: proposed text and stakeholder requests remain proposals—not mandates—until a final rule is published and effective.</p></div></section>
+
+  <section class="watch section"><div class="wrap"><div class="section-head"><div><p class="section-kicker">OIRA watchlist</p><h2>Meetings and review pressure</h2></div><p>Posted meetings can show stakeholder attention, but do not prove agency acceptance.</p></div><div class="meeting-grid" id="meetings"><div class="empty-state">Loading meeting docket…</div></div><a class="text-link" href="https://www.reginfo.gov/public/do/eom12866SearchResults?pubId=202510&rin=2120-AL82&viewRule=true" target="_blank" rel="noreferrer">View complete OIRA meeting docket ↗</a></div></section>
+
+  <section class="provisions section" id="provisions"><div class="wrap"><div class="section-head"><div><p class="section-kicker">Substantive provisions</p><h2>Metal Raptor relevance</h2></div><div class="filters" id="filters"><button class="selected" data-filter="All">All</button><button data-filter="Framework">Framework</button><button data-filter="Infrastructure">Infrastructure</button><button data-filter="Safety">Safety</button><button data-filter="Security">Security</button></div></div><div class="table-wrap"><table><thead><tr><th>Area</th><th>Status</th><th>What the proposal says</th><th>Metal Raptor impact</th><th>Evidence / outreach</th></tr></thead><tbody id="provision-body"></tbody></table></div><p class="discipline">Proposed text, agency statements, stakeholder requests, speculation, and final requirements must remain separately labeled.</p></div></section>
+
+  <section class="positioning section"><div class="wrap"><div class="section-head"><div><p class="section-kicker">Positioning</p><h2>Opportunity and risk</h2></div></div><div class="opportunity-grid"><article><span>01</span><h3>Own resilience evidence</h3><p>Quantify link continuity, latency, handoff, localization integrity, and recovery behavior.</p><strong>Product evidence</strong></article><article><span>02</span><h3>Stay provider-neutral</h3><p>Advocate performance-based language that supports multi-link systems and does not prescribe cellular.</p><strong>Regulatory angle</strong></article><article><span>03</span><h3>Secure the exchange</h3><p>Show authenticated, auditable interfaces to approved airspace and data service providers.</p><strong>Partner angle</strong></article><article><span>04</span><h3>Avoid overclaiming</h3><p>Connectivity and position integrity strengthen DAA but do not independently constitute DAA.</p><strong>Risk control</strong></article></div></div></section>
+
+  <section class="actions section" id="actions"><div class="wrap"><p class="section-kicker">Recommended next moves</p><h2>Three highest-priority actions</h2><div class="action-list"><article><span>01</span><div><h3>Build the assurance evidence matrix</h3><p>Map C2, PNT, authentication, fleet monitoring, and failsafe metrics to proposed operating and provider responsibilities.</p></div><strong>Engineering + regulatory</strong></article><article><span>02</span><div><h3>Submit a technology-neutral implementation brief</h3><p>Explain why outcomes-based requirements enable resilient multi-path architectures without specifying cellular.</p></div><strong>Regulatory outreach</strong></article><article><span>03</span><div><h3>Develop ADSP integration targets</h3><p>Prioritize secure interfaces, operational-status reporting, and partner discussions with likely airspace-service participants.</p></div><strong>Partnerships</strong></article></div></div></section>
+
+  <section class="questions section wrap"><div><p class="section-kicker">Open issues</p><h2>Unresolved questions</h2></div><ul><li>What changes, if any, will OIRA clearance produce in the final text?</li><li>Which operations require strategic deconfliction, conformance monitoring, or third-party services?</li><li>What performance evidence will FAA accept for C2 continuity and resilient PNT?</li><li>How will final text treat non-cooperative aircraft and right-of-way?</li><li>Which compliance dates, advisory circulars, waivers, and implementation programs will follow?</li></ul></section>
+
+  <section class="sources section" id="sources"><div class="wrap"><p class="section-kicker">Evidence base</p><h2>Authoritative sources</h2><div class="source-health" id="source-health"></div><div class="source-grid">
+    <a href="https://www.reginfo.gov/public/do/eoDetails?rrid=1457213" target="_blank"><strong>OIRA review record</strong><span>Final rule review lifecycle</span><b>↗</b></a>
+    <a href="https://www.reginfo.gov/public/do/eom12866SearchResults?pubId=202510&rin=2120-AL82&viewRule=true" target="_blank"><strong>OIRA meeting docket</strong><span>Posted EO 12866 meetings</span><b>↗</b></a>
+    <a href="https://www.reginfo.gov/public/do/eAgendaViewRule?RIN=2120-AL82&pubId=202510" target="_blank"><strong>Unified Agenda</strong><span>RIN 2120-AL82 record</span><b>↗</b></a>
+    <a href="https://www.federalregister.gov/documents/2025/08/07/2025-14992/normalizing-unmanned-aircraft-systems-beyond-visual-line-of-sight-operations" target="_blank"><strong>Federal Register NPRM</strong><span>Published August 7, 2025</span><b>↗</b></a>
+    <a href="https://www.faa.gov/newsroom/fact_sheets/Fact_Sheet_BVLOS.pdf" target="_blank"><strong>FAA fact sheet</strong><span>Agency proposal summary</span><b>↗</b></a>
+    <a href="https://www.federalregister.gov/documents/2026/01/28/2026-01644/normalizing-unmanned-aircraft-systems-beyond-visual-line-of-sight-operations-reopening-of-comment" target="_blank"><strong>Comment reopening</strong><span>Published January 28, 2026</span><b>↗</b></a>
+    <a href="https://www.govinfo.gov/content/pkg/USCODE-2024-title49/html/USCODE-2024-title49-subtitleVII-partA-subpartiii-chap448-sec44811.htm" target="_blank"><strong>49 U.S.C. § 44811</strong><span>Congressional rulemaking direction</span><b>↗</b></a>
+    <a href="https://www.regulations.gov/search?filter=FAA-2025-1908" target="_blank"><strong>Regulations.gov docket</strong><span>FAA-2025-1908</span><b>↗</b></a>
+  </div><div class="history-panel"><h3>Snapshot history</h3><div class="history-list" id="history"></div></div><p class="method">Method: GitHub Actions checks official endpoints every six hours, compares the new snapshot with the prior committed snapshot, and republishes this site. A successful browser reload shows the latest deployed snapshot—not necessarily a new regulatory check at that instant.</p></div></section>
+  <footer><div class="wrap"><img src="metal-raptor-logo.png" alt="Metal Raptor"><span>REGULATORY INTELLIGENCE · NOT LEGAL ADVICE</span><span id="footer-date"></span></div></footer>
+</main>
+<script src="app.js"></script>
+</body></html>
+

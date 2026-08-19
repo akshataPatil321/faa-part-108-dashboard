@@ -1,0 +1,143 @@
+{
+  "stage": "Final rule under OIRA review",
+  "overall": "Yellow",
+  "oiraPending": true,
+  "oiraReceivedDate": "2026-07-10",
+  "daysInOira": 40,
+  "meetingCount": 39,
+  "upcomingMeetings": [
+    {
+      "date": "08/27/2026",
+      "dateDisplay": "08/27/2026 03:30 PM",
+      "requestor": "OIRA meeting record",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1488273&acronym=2120-DOT/FAA",
+      "status": "Posted"
+    },
+    {
+      "date": "08/26/2026",
+      "dateDisplay": "08/26/2026 01:30 PM",
+      "requestor": "OIRA meeting record",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1511923&acronym=2120-DOT/FAA",
+      "status": "Posted"
+    },
+    {
+      "date": "08/26/2026",
+      "dateDisplay": "08/26/2026 01:00 PM",
+      "requestor": "OIRA meeting record",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1511874&acronym=2120-DOT/FAA",
+      "status": "Posted"
+    },
+    {
+      "date": "08/25/2026",
+      "dateDisplay": "08/25/2026 02:30 PM",
+      "requestor": "OIRA meeting record",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1503474&acronym=2120-DOT/FAA",
+      "status": "Posted"
+    },
+    {
+      "date": "08/25/2026",
+      "dateDisplay": "08/25/2026 02:00 PM",
+      "requestor": "OIRA meeting record",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1495923&acronym=2120-DOT/FAA",
+      "status": "Posted"
+    },
+    {
+      "date": "08/24/2026",
+      "dateDisplay": "08/24/2026 11:00 AM",
+      "requestor": "OIRA meeting record",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1493323&acronym=2120-DOT/FAA",
+      "status": "Posted"
+    },
+    {
+      "date": "08/24/2026",
+      "dateDisplay": "08/24/2026 10:00 AM",
+      "requestor": "OIRA meeting record",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1493473&acronym=2120-DOT/FAA",
+      "status": "Posted"
+    },
+    {
+      "date": "08/21/2026",
+      "dateDisplay": "08/21/2026 11:30 AM",
+      "requestor": "OIRA meeting record",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1503523&acronym=2120-DOT/FAA",
+      "status": "Posted"
+    },
+    {
+      "date": "08/21/2026",
+      "dateDisplay": "08/21/2026 11:00 AM",
+      "requestor": "OIRA meeting record",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1493673&acronym=2120-DOT/FAA",
+      "status": "Posted"
+    },
+    {
+      "date": "08/20/2026",
+      "dateDisplay": "08/20/2026 03:30 PM",
+      "requestor": "OIRA meeting record",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1488573&acronym=2120-DOT/FAA",
+      "status": "Posted"
+    },
+    {
+      "date": "08/19/2026",
+      "dateDisplay": "08/19/2026 02:00 PM",
+      "requestor": "OIRA meeting record",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1488323&acronym=2120-DOT/FAA",
+      "status": "Posted"
+    },
+    {
+      "date": "08/18/2026",
+      "dateDisplay": "08/18/2026 11:00 AM",
+      "requestor": "OIRA meeting record",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1481073&acronym=2120-DOT/FAA",
+      "status": "Posted"
+    }
+  ],
+  "latestDocument": {
+    "title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations; Reopening of Comment Period; Denial of Extension",
+    "number": "2026-02649",
+    "publicationDate": "2026-02-10",
+    "type": "Proposed Rule",
+    "url": "https://www.federalregister.gov/documents/2026/02/10/2026-02649/normalizing-unmanned-aircraft-systems-beyond-visual-line-of-sight-operations-reopening-of-comment"
+  },
+  "finalRulePublished": false,
+  "lastChecked": "2026-08-19T00:21:24.214Z",
+  "nextAutomaticCheck": "2026-08-19T06:21:24.214Z",
+  "changes": [
+    "No material lifecycle change detected since the prior verified report."
+  ],
+  "sourceHealth": [
+    {
+      "name": "OIRA review record",
+      "ok": true,
+      "checkedAt": "2026-08-19T00:21:24.214Z",
+      "detail": "HTTP 200",
+      "url": "https://www.reginfo.gov/public/do/eoDetails?rrid=1457213"
+    },
+    {
+      "name": "OIRA meeting docket",
+      "ok": true,
+      "checkedAt": "2026-08-19T00:21:24.214Z",
+      "detail": "HTTP 200",
+      "url": "https://www.reginfo.gov/public/do/eom12866SearchResults?pubId=202510&rin=2120-AL82&viewRule=true&viewall=Y&view=yes"
+    },
+    {
+      "name": "Federal Register API",
+      "ok": true,
+      "checkedAt": "2026-08-19T00:21:24.214Z",
+      "detail": "HTTP 200",
+      "url": "https://www.federalregister.gov/api/v1/documents.json?per_page=50&order=newest&conditions%5Bterm%5D=2120-AL82"
+    }
+  ],
+  "stale": false,
+  "interpretationNote": "Automated checks detect official lifecycle events and source changes. Substantive provision analysis remains human-reviewed.",
+  "history": [
+    {
+      "checkedAt": "2026-08-19T00:21:24.214Z",
+      "stage": "Final rule under OIRA review",
+      "meetingCount": 39,
+      "latestDocumentNumber": "2026-02649",
+      "changes": [
+        "No material lifecycle change detected since the prior verified report."
+      ]
+    }
+  ]
+}
