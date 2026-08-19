@@ -9,86 +9,110 @@
     {
       "date": "09/03/2026",
       "dateDisplay": "09/03/2026 10:30 AM",
-      "requestor": "OIRA meeting record",
+      "requestor": "Commercial Drone Alliance - Operators — Molly Knudsen",
       "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1514323&acronym=2120-DOT/FAA",
-      "status": "Posted"
+      "status": "Posted",
+      "organization": "Commercial Drone Alliance - Operators",
+      "requestorName": "Molly Knudsen"
     },
     {
       "date": "08/28/2026",
       "dateDisplay": "08/28/2026 11:30 AM",
-      "requestor": "OIRA meeting record",
+      "requestor": "Commercial Drone Alliance - Manufacturers — Liz Forro",
       "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1514324&acronym=2120-DOT/FAA",
-      "status": "Posted"
+      "status": "Posted",
+      "organization": "Commercial Drone Alliance - Manufacturers",
+      "requestorName": "Liz Forro"
     },
     {
       "date": "08/27/2026",
       "dateDisplay": "08/27/2026 03:30 PM",
-      "requestor": "OIRA meeting record",
+      "requestor": "Echodyne — Max Rosen",
       "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1488273&acronym=2120-DOT/FAA",
-      "status": "Posted"
+      "status": "Posted",
+      "organization": "Echodyne",
+      "requestorName": "Max Rosen"
     },
     {
       "date": "08/27/2026",
       "dateDisplay": "08/27/2026 10:30 AM",
-      "requestor": "OIRA meeting record",
+      "requestor": "Greenberg Traurig LLP — Joel Roberson Requestor's Client: Sean Deverey at Honeywell Aerospace Inc.",
       "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1512423&acronym=2120-DOT/FAA",
-      "status": "Posted"
+      "status": "Posted",
+      "organization": "Greenberg Traurig LLP",
+      "requestorName": "Joel Roberson Requestor's Client: Sean Deverey at Honeywell Aerospace Inc."
     },
     {
       "date": "08/26/2026",
       "dateDisplay": "08/26/2026 01:30 PM",
-      "requestor": "OIRA meeting record",
+      "requestor": "Aerospace Industries Association — Joe Sansone",
       "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1511923&acronym=2120-DOT/FAA",
-      "status": "Posted"
+      "status": "Posted",
+      "organization": "Aerospace Industries Association",
+      "requestorName": "Joe Sansone"
     },
     {
       "date": "08/26/2026",
       "dateDisplay": "08/26/2026 01:00 PM",
-      "requestor": "OIRA meeting record",
+      "requestor": "Wilkinson Barker Knauer — Kara Graves Requestor's Client: CTIA",
       "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1511874&acronym=2120-DOT/FAA",
-      "status": "Posted"
+      "status": "Posted",
+      "organization": "Wilkinson Barker Knauer",
+      "requestorName": "Kara Graves Requestor's Client: CTIA"
     },
     {
       "date": "08/25/2026",
       "dateDisplay": "08/25/2026 02:30 PM",
-      "requestor": "OIRA meeting record",
+      "requestor": "Greenberg Traurig, LLP — Matthew Satterley Requestor's Client: Kevin Houston, Manna Drone Delivery, Inc.",
       "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1503474&acronym=2120-DOT/FAA",
-      "status": "Posted"
+      "status": "Posted",
+      "organization": "Greenberg Traurig, LLP",
+      "requestorName": "Matthew Satterley Requestor's Client: Kevin Houston, Manna Drone Delivery, Inc."
     },
     {
       "date": "08/25/2026",
       "dateDisplay": "08/25/2026 02:00 PM",
-      "requestor": "OIRA meeting record",
+      "requestor": "Williams & Jensen — Frank Vlossak Requestor's Client: Sally Veith, Air Medical Operators Association",
       "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1495923&acronym=2120-DOT/FAA",
-      "status": "Posted"
+      "status": "Posted",
+      "organization": "Williams & Jensen",
+      "requestorName": "Frank Vlossak Requestor's Client: Sally Veith, Air Medical Operators Association"
     },
     {
       "date": "08/24/2026",
       "dateDisplay": "08/24/2026 11:00 AM",
-      "requestor": "OIRA meeting record",
+      "requestor": "Greenberg Traurig LLP — Joel Roberson Requestor's Client: Skydio",
       "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1493323&acronym=2120-DOT/FAA",
-      "status": "Posted"
+      "status": "Posted",
+      "organization": "Greenberg Traurig LLP",
+      "requestorName": "Joel Roberson Requestor's Client: Skydio"
     },
     {
       "date": "08/24/2026",
       "dateDisplay": "08/24/2026 10:00 AM",
-      "requestor": "OIRA meeting record",
+      "requestor": "Greenberg Traurig, LLP — Matthew Satterley Requestor's Client: Margaret Nagle, Wing Aviation LLC",
       "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1493473&acronym=2120-DOT/FAA",
-      "status": "Posted"
+      "status": "Posted",
+      "organization": "Greenberg Traurig, LLP",
+      "requestorName": "Matthew Satterley Requestor's Client: Margaret Nagle, Wing Aviation LLC"
     },
     {
       "date": "08/21/2026",
       "dateDisplay": "08/21/2026 11:30 AM",
-      "requestor": "OIRA meeting record",
+      "requestor": "Zipline International Inc. — Dean Griffith",
       "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1503523&acronym=2120-DOT/FAA",
-      "status": "Posted"
+      "status": "Posted",
+      "organization": "Zipline International Inc.",
+      "requestorName": "Dean Griffith"
     },
     {
       "date": "08/21/2026",
       "dateDisplay": "08/21/2026 11:00 AM",
-      "requestor": "OIRA meeting record",
+      "requestor": "Amazon Prime Air — Mary Barnicle",
       "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1493673&acronym=2120-DOT/FAA",
-      "status": "Posted"
+      "status": "Posted",
+      "organization": "Amazon Prime Air",
+      "requestorName": "Mary Barnicle"
     }
   ],
   "latestDocument": {
@@ -99,30 +123,30 @@
     "url": "https://www.federalregister.gov/documents/2026/02/10/2026-02649/normalizing-unmanned-aircraft-systems-beyond-visual-line-of-sight-operations-reopening-of-comment"
   },
   "finalRulePublished": false,
-  "lastChecked": "2026-08-19T20:36:50.404Z",
-  "nextAutomaticCheck": "2026-08-20T02:36:50.404Z",
+  "lastChecked": "2026-08-19T20:55:40.253Z",
+  "nextAutomaticCheck": "2026-08-20T02:55:40.253Z",
   "changes": [
-    "OIRA meeting count changed from 39 to 42."
+    "No material lifecycle change detected since the prior snapshot."
   ],
   "sourceHealth": [
     {
       "name": "OIRA review record",
       "ok": true,
-      "checkedAt": "2026-08-19T20:36:50.404Z",
+      "checkedAt": "2026-08-19T20:55:40.253Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eoDetails?rrid=1457213"
     },
     {
       "name": "OIRA meeting docket",
       "ok": true,
-      "checkedAt": "2026-08-19T20:36:50.404Z",
+      "checkedAt": "2026-08-19T20:55:40.253Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eom12866SearchResults?pubId=202510&rin=2120-AL82&viewRule=true&viewall=Y&view=yes"
     },
     {
       "name": "Federal Register API",
       "ok": true,
-      "checkedAt": "2026-08-19T20:36:50.404Z",
+      "checkedAt": "2026-08-19T20:55:40.253Z",
       "detail": "HTTP 200",
       "url": "https://www.federalregister.gov/api/v1/documents.json?per_page=50&order=newest&conditions%5Bterm%5D=2120-AL82"
     }
@@ -130,6 +154,24 @@
   "stale": false,
   "interpretationNote": "Automated checks detect official lifecycle events and source changes. Substantive provision analysis remains human-reviewed.",
   "history": [
+    {
+      "checkedAt": "2026-08-19T20:55:40.253Z",
+      "stage": "Final rule under OIRA review",
+      "meetingCount": 42,
+      "latestDocumentNumber": "2026-02649",
+      "changes": [
+        "No material lifecycle change detected since the prior snapshot."
+      ]
+    },
+    {
+      "checkedAt": "2026-08-19T20:55:12.720Z",
+      "stage": "Final rule under OIRA review",
+      "meetingCount": 42,
+      "latestDocumentNumber": "2026-02649",
+      "changes": [
+        "No material lifecycle change detected since the prior snapshot."
+      ]
+    },
     {
       "checkedAt": "2026-08-19T20:36:50.404Z",
       "stage": "Final rule under OIRA review",
