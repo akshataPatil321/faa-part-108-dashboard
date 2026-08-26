@@ -96,8 +96,8 @@
     "url": "https://www.federalregister.gov/documents/2026/02/10/2026-02649/normalizing-unmanned-aircraft-systems-beyond-visual-line-of-sight-operations-reopening-of-comment"
   },
   "finalRulePublished": false,
-  "lastChecked": "2026-08-26T07:09:56.875Z",
-  "nextAutomaticCheck": "2026-08-26T13:09:56.875Z",
+  "lastChecked": "2026-08-26T13:17:31.211Z",
+  "nextAutomaticCheck": "2026-08-26T19:17:31.211Z",
   "changes": [
     "No material lifecycle change detected since the prior snapshot."
   ],
@@ -105,21 +105,21 @@
     {
       "name": "OIRA review record",
       "ok": true,
-      "checkedAt": "2026-08-26T07:09:56.875Z",
+      "checkedAt": "2026-08-26T13:17:31.211Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eoDetails?rrid=1457213"
     },
     {
       "name": "OIRA meeting docket",
       "ok": true,
-      "checkedAt": "2026-08-26T07:09:56.875Z",
+      "checkedAt": "2026-08-26T13:17:31.211Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eom12866SearchResults?pubId=202510&rin=2120-AL82&viewRule=true&viewall=Y&view=yes"
     },
     {
       "name": "Federal Register API",
       "ok": true,
-      "checkedAt": "2026-08-26T07:09:56.875Z",
+      "checkedAt": "2026-08-26T13:17:31.211Z",
       "detail": "HTTP 200",
       "url": "https://www.federalregister.gov/api/v1/documents.json?per_page=50&order=newest&conditions%5Bterm%5D=2120-AL82"
     }
@@ -127,6 +127,15 @@
   "stale": false,
   "interpretationNote": "Automated checks detect official lifecycle events and source changes. Substantive provision analysis remains human-reviewed.",
   "history": [
+    {
+      "checkedAt": "2026-08-26T13:17:31.211Z",
+      "stage": "Final rule under OIRA review",
+      "meetingCount": 45,
+      "latestDocumentNumber": "2026-02649",
+      "changes": [
+        "No material lifecycle change detected since the prior snapshot."
+      ]
+    },
     {
       "checkedAt": "2026-08-26T07:09:56.875Z",
       "stage": "Final rule under OIRA review",
@@ -327,15 +336,6 @@
     },
     {
       "checkedAt": "2026-08-20T19:00:03.198Z",
-      "stage": "Final rule under OIRA review",
-      "meetingCount": 44,
-      "latestDocumentNumber": "2026-02649",
-      "changes": [
-        "No material lifecycle change detected since the prior snapshot."
-      ]
-    },
-    {
-      "checkedAt": "2026-08-20T13:12:09.357Z",
       "stage": "Final rule under OIRA review",
       "meetingCount": 44,
       "latestDocumentNumber": "2026-02649",
