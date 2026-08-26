@@ -3,7 +3,7 @@
   "overall": "Yellow",
   "oiraPending": true,
   "oiraReceivedDate": "2026-07-10",
-  "daysInOira": 46,
+  "daysInOira": 47,
   "meetingCount": 45,
   "upcomingMeetings": [
     {
@@ -86,24 +86,6 @@
       "status": "Posted",
       "organization": "Wilkinson Barker Knauer",
       "requestorName": "Kara Graves Requestor's Client: CTIA"
-    },
-    {
-      "date": "08/25/2026",
-      "dateDisplay": "08/25/2026 02:30 PM",
-      "requestor": "Greenberg Traurig, LLP — Matthew Satterley Requestor's Client: Kevin Houston, Manna Drone Delivery, Inc.",
-      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1503474&acronym=2120-DOT/FAA",
-      "status": "Posted",
-      "organization": "Greenberg Traurig, LLP",
-      "requestorName": "Matthew Satterley Requestor's Client: Kevin Houston, Manna Drone Delivery, Inc."
-    },
-    {
-      "date": "08/25/2026",
-      "dateDisplay": "08/25/2026 02:00 PM",
-      "requestor": "Williams & Jensen — Frank Vlossak Requestor's Client: Sally Veith, Air Medical Operators Association",
-      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1495923&acronym=2120-DOT/FAA",
-      "status": "Posted",
-      "organization": "Williams & Jensen",
-      "requestorName": "Frank Vlossak Requestor's Client: Sally Veith, Air Medical Operators Association"
     }
   ],
   "latestDocument": {
@@ -114,8 +96,8 @@
     "url": "https://www.federalregister.gov/documents/2026/02/10/2026-02649/normalizing-unmanned-aircraft-systems-beyond-visual-line-of-sight-operations-reopening-of-comment"
   },
   "finalRulePublished": false,
-  "lastChecked": "2026-08-25T18:58:02.227Z",
-  "nextAutomaticCheck": "2026-08-26T00:58:02.227Z",
+  "lastChecked": "2026-08-26T01:59:20.768Z",
+  "nextAutomaticCheck": "2026-08-26T07:59:20.768Z",
   "changes": [
     "No material lifecycle change detected since the prior snapshot."
   ],
@@ -123,21 +105,21 @@
     {
       "name": "OIRA review record",
       "ok": true,
-      "checkedAt": "2026-08-25T18:58:02.227Z",
+      "checkedAt": "2026-08-26T01:59:20.768Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eoDetails?rrid=1457213"
     },
     {
       "name": "OIRA meeting docket",
       "ok": true,
-      "checkedAt": "2026-08-25T18:58:02.227Z",
+      "checkedAt": "2026-08-26T01:59:20.768Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eom12866SearchResults?pubId=202510&rin=2120-AL82&viewRule=true&viewall=Y&view=yes"
     },
     {
       "name": "Federal Register API",
       "ok": true,
-      "checkedAt": "2026-08-25T18:58:02.227Z",
+      "checkedAt": "2026-08-26T01:59:20.768Z",
       "detail": "HTTP 200",
       "url": "https://www.federalregister.gov/api/v1/documents.json?per_page=50&order=newest&conditions%5Bterm%5D=2120-AL82"
     }
@@ -145,6 +127,15 @@
   "stale": false,
   "interpretationNote": "Automated checks detect official lifecycle events and source changes. Substantive provision analysis remains human-reviewed.",
   "history": [
+    {
+      "checkedAt": "2026-08-26T01:59:20.768Z",
+      "stage": "Final rule under OIRA review",
+      "meetingCount": 45,
+      "latestDocumentNumber": "2026-02649",
+      "changes": [
+        "No material lifecycle change detected since the prior snapshot."
+      ]
+    },
     {
       "checkedAt": "2026-08-25T18:58:02.227Z",
       "stage": "Final rule under OIRA review",
@@ -350,15 +341,6 @@
       "latestDocumentNumber": "2026-02649",
       "changes": [
         "OIRA meeting count changed from 42 to 44."
-      ]
-    },
-    {
-      "checkedAt": "2026-08-20T01:52:48.037Z",
-      "stage": "Final rule under OIRA review",
-      "meetingCount": 42,
-      "latestDocumentNumber": "2026-02649",
-      "changes": [
-        "No material lifecycle change detected since the prior snapshot."
       ]
     }
   ]
