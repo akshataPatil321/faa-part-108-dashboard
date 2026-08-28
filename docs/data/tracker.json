@@ -3,9 +3,27 @@
   "overall": "Yellow",
   "oiraPending": true,
   "oiraReceivedDate": "2026-07-10",
-  "daysInOira": 48,
-  "meetingCount": 45,
+  "daysInOira": 49,
+  "meetingCount": 47,
   "upcomingMeetings": [
+    {
+      "date": "09/14/2026",
+      "dateDisplay": "09/14/2026 01:30 PM",
+      "requestor": "Hogan Lovells Cadwalader US LLP — Matthew Clark Requestor's Client: Florida Power & Light Company",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1515474&acronym=2120-DOT/FAA",
+      "status": "Posted",
+      "organization": "Hogan Lovells Cadwalader US LLP",
+      "requestorName": "Matthew Clark Requestor's Client: Florida Power & Light Company"
+    },
+    {
+      "date": "09/14/2026",
+      "dateDisplay": "09/14/2026 01:00 PM",
+      "requestor": "Hogan Lovells Cadwalader US LLP — Matthew Clark Requestor's Client: The Choctaw Nation of Oklahoma",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1515475&acronym=2120-DOT/FAA",
+      "status": "Posted",
+      "organization": "Hogan Lovells Cadwalader US LLP",
+      "requestorName": "Matthew Clark Requestor's Client: The Choctaw Nation of Oklahoma"
+    },
     {
       "date": "09/08/2026",
       "dateDisplay": "09/08/2026 11:30 AM",
@@ -50,24 +68,6 @@
       "status": "Posted",
       "organization": "uAvionix Corporation",
       "requestorName": "Jon Damush"
-    },
-    {
-      "date": "08/27/2026",
-      "dateDisplay": "08/27/2026 03:30 PM",
-      "requestor": "Echodyne — Max Rosen",
-      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1488273&acronym=2120-DOT/FAA",
-      "status": "Posted",
-      "organization": "Echodyne",
-      "requestorName": "Max Rosen"
-    },
-    {
-      "date": "08/27/2026",
-      "dateDisplay": "08/27/2026 10:30 AM",
-      "requestor": "Greenberg Traurig LLP — Joel Roberson Requestor's Client: Sean Deverey at Honeywell Aerospace Inc.",
-      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1512423&acronym=2120-DOT/FAA",
-      "status": "Posted",
-      "organization": "Greenberg Traurig LLP",
-      "requestorName": "Joel Roberson Requestor's Client: Sean Deverey at Honeywell Aerospace Inc."
     }
   ],
   "latestDocument": {
@@ -78,30 +78,30 @@
     "url": "https://www.federalregister.gov/documents/2026/02/10/2026-02649/normalizing-unmanned-aircraft-systems-beyond-visual-line-of-sight-operations-reopening-of-comment"
   },
   "finalRulePublished": false,
-  "lastChecked": "2026-08-27T22:16:48.431Z",
-  "nextAutomaticCheck": "2026-08-28T04:16:48.431Z",
+  "lastChecked": "2026-08-28T11:25:07.392Z",
+  "nextAutomaticCheck": "2026-08-28T17:25:07.392Z",
   "changes": [
-    "No material lifecycle change detected since the prior snapshot."
+    "OIRA meeting count changed from 45 to 47."
   ],
   "sourceHealth": [
     {
       "name": "OIRA review record",
       "ok": true,
-      "checkedAt": "2026-08-27T22:16:48.431Z",
+      "checkedAt": "2026-08-28T11:25:07.392Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eoDetails?rrid=1457213"
     },
     {
       "name": "OIRA meeting docket",
       "ok": true,
-      "checkedAt": "2026-08-27T22:16:48.431Z",
+      "checkedAt": "2026-08-28T11:25:07.392Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eom12866SearchResults?pubId=202510&rin=2120-AL82&viewRule=true&viewall=Y&view=yes"
     },
     {
       "name": "Federal Register API",
       "ok": true,
-      "checkedAt": "2026-08-27T22:16:48.431Z",
+      "checkedAt": "2026-08-28T11:25:07.392Z",
       "detail": "HTTP 200",
       "url": "https://www.federalregister.gov/api/v1/documents.json?per_page=50&order=newest&conditions%5Bterm%5D=2120-AL82"
     }
@@ -109,6 +109,15 @@
   "stale": false,
   "interpretationNote": "Automated checks detect official lifecycle events and source changes. Substantive provision analysis remains human-reviewed.",
   "history": [
+    {
+      "checkedAt": "2026-08-28T11:25:07.392Z",
+      "stage": "Final rule under OIRA review",
+      "meetingCount": 47,
+      "latestDocumentNumber": "2026-02649",
+      "changes": [
+        "OIRA meeting count changed from 45 to 47."
+      ]
+    },
     {
       "checkedAt": "2026-08-27T22:16:48.431Z",
       "stage": "Final rule under OIRA review",
@@ -309,15 +318,6 @@
     },
     {
       "checkedAt": "2026-08-21T18:56:58.516Z",
-      "stage": "Final rule under OIRA review",
-      "meetingCount": 45,
-      "latestDocumentNumber": "2026-02649",
-      "changes": [
-        "No material lifecycle change detected since the prior snapshot."
-      ]
-    },
-    {
-      "checkedAt": "2026-08-21T13:12:03.998Z",
       "stage": "Final rule under OIRA review",
       "meetingCount": 45,
       "latestDocumentNumber": "2026-02649",
