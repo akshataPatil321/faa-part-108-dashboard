@@ -3,9 +3,36 @@
   "overall": "Yellow",
   "oiraPending": true,
   "oiraReceivedDate": "2026-07-10",
-  "daysInOira": 49,
-  "meetingCount": 47,
+  "daysInOira": 50,
+  "meetingCount": 51,
   "upcomingMeetings": [
+    {
+      "date": "09/16/2026",
+      "dateDisplay": "09/16/2026 02:00 PM",
+      "requestor": "Quanta Aviation Services — Isaac Piche",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1524077&acronym=2120-DOT/FAA",
+      "status": "Posted",
+      "organization": "Quanta Aviation Services",
+      "requestorName": "Isaac Piche"
+    },
+    {
+      "date": "09/15/2026",
+      "dateDisplay": "09/15/2026 11:30 AM",
+      "requestor": "Hogan Lovells Cadwalader US LLP — Matthew Clark Requestor's Client: Pyka Inc.",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1518625&acronym=2120-DOT/FAA",
+      "status": "Posted",
+      "organization": "Hogan Lovells Cadwalader US LLP",
+      "requestorName": "Matthew Clark Requestor's Client: Pyka Inc."
+    },
+    {
+      "date": "09/15/2026",
+      "dateDisplay": "09/15/2026 11:00 AM",
+      "requestor": "Hogan Lovells Cadwalader US LLP — Matthew Clark Requestor's Client: Percepto Robotics Inc.",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1515573&acronym=2120-DOT/FAA",
+      "status": "Posted",
+      "organization": "Hogan Lovells Cadwalader US LLP",
+      "requestorName": "Matthew Clark Requestor's Client: Percepto Robotics Inc."
+    },
     {
       "date": "09/14/2026",
       "dateDisplay": "09/14/2026 01:30 PM",
@@ -52,22 +79,13 @@
       "requestorName": "Molly Knudsen"
     },
     {
-      "date": "08/28/2026",
-      "dateDisplay": "08/28/2026 11:30 AM",
-      "requestor": "Commercial Drone Alliance - Manufacturers — Liz Forro",
-      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1514324&acronym=2120-DOT/FAA",
+      "date": "09/01/2026",
+      "dateDisplay": "09/01/2026 03:30 PM",
+      "requestor": "Experimental Aircraft Association — Margaret Colwell",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1518823&acronym=2120-DOT/FAA",
       "status": "Posted",
-      "organization": "Commercial Drone Alliance - Manufacturers",
-      "requestorName": "Liz Forro"
-    },
-    {
-      "date": "08/28/2026",
-      "dateDisplay": "08/28/2026 10:00 AM",
-      "requestor": "uAvionix Corporation — Jon Damush",
-      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1513873&acronym=2120-DOT/FAA",
-      "status": "Posted",
-      "organization": "uAvionix Corporation",
-      "requestorName": "Jon Damush"
+      "organization": "Experimental Aircraft Association",
+      "requestorName": "Margaret Colwell"
     }
   ],
   "latestDocument": {
@@ -78,30 +96,30 @@
     "url": "https://www.federalregister.gov/documents/2026/02/10/2026-02649/normalizing-unmanned-aircraft-systems-beyond-visual-line-of-sight-operations-reopening-of-comment"
   },
   "finalRulePublished": false,
-  "lastChecked": "2026-08-28T22:21:49.704Z",
-  "nextAutomaticCheck": "2026-08-29T04:21:49.704Z",
+  "lastChecked": "2026-08-29T07:05:50.059Z",
+  "nextAutomaticCheck": "2026-08-29T13:05:50.059Z",
   "changes": [
-    "No material lifecycle change detected since the prior snapshot."
+    "OIRA meeting count changed from 47 to 51."
   ],
   "sourceHealth": [
     {
       "name": "OIRA review record",
       "ok": true,
-      "checkedAt": "2026-08-28T22:21:49.704Z",
+      "checkedAt": "2026-08-29T07:05:50.059Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eoDetails?rrid=1457213"
     },
     {
       "name": "OIRA meeting docket",
       "ok": true,
-      "checkedAt": "2026-08-28T22:21:49.704Z",
+      "checkedAt": "2026-08-29T07:05:50.059Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eom12866SearchResults?pubId=202510&rin=2120-AL82&viewRule=true&viewall=Y&view=yes"
     },
     {
       "name": "Federal Register API",
       "ok": true,
-      "checkedAt": "2026-08-28T22:21:49.704Z",
+      "checkedAt": "2026-08-29T07:05:50.059Z",
       "detail": "HTTP 200",
       "url": "https://www.federalregister.gov/api/v1/documents.json?per_page=50&order=newest&conditions%5Bterm%5D=2120-AL82"
     }
@@ -109,6 +127,15 @@
   "stale": false,
   "interpretationNote": "Automated checks detect official lifecycle events and source changes. Substantive provision analysis remains human-reviewed.",
   "history": [
+    {
+      "checkedAt": "2026-08-29T07:05:50.059Z",
+      "stage": "Final rule under OIRA review",
+      "meetingCount": 51,
+      "latestDocumentNumber": "2026-02649",
+      "changes": [
+        "OIRA meeting count changed from 47 to 51."
+      ]
+    },
     {
       "checkedAt": "2026-08-28T22:21:49.704Z",
       "stage": "Final rule under OIRA review",
@@ -309,15 +336,6 @@
     },
     {
       "checkedAt": "2026-08-22T07:00:25.541Z",
-      "stage": "Final rule under OIRA review",
-      "meetingCount": 45,
-      "latestDocumentNumber": "2026-02649",
-      "changes": [
-        "No material lifecycle change detected since the prior snapshot."
-      ]
-    },
-    {
-      "checkedAt": "2026-08-22T01:51:00.105Z",
       "stage": "Final rule under OIRA review",
       "meetingCount": 45,
       "latestDocumentNumber": "2026-02649",
