@@ -4,7 +4,7 @@
   "oiraPending": true,
   "oiraReceivedDate": "2026-07-10",
   "daysInOira": 52,
-  "meetingCount": 51,
+  "meetingCount": 50,
   "upcomingMeetings": [
     {
       "date": "09/16/2026",
@@ -61,15 +61,6 @@
       "requestorName": "Lisa Ellman"
     },
     {
-      "date": "09/04/2026",
-      "dateDisplay": "09/04/2026 02:00 PM",
-      "requestor": "Hogan Lovells Cadwalader US LLP — Matthew Clark Requestor's Client: Amor Fati Industries Corp d/b/a Seneca",
-      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1515423&acronym=2120-DOT/FAA",
-      "status": "Posted",
-      "organization": "Hogan Lovells Cadwalader US LLP",
-      "requestorName": "Matthew Clark Requestor's Client: Amor Fati Industries Corp d/b/a Seneca"
-    },
-    {
       "date": "09/03/2026",
       "dateDisplay": "09/03/2026 10:30 AM",
       "requestor": "Commercial Drone Alliance - Operators — Molly Knudsen",
@@ -96,30 +87,30 @@
     "url": "https://www.federalregister.gov/documents/2026/02/10/2026-02649/normalizing-unmanned-aircraft-systems-beyond-visual-line-of-sight-operations-reopening-of-comment"
   },
   "finalRulePublished": false,
-  "lastChecked": "2026-08-31T13:53:33.620Z",
-  "nextAutomaticCheck": "2026-08-31T19:53:33.620Z",
+  "lastChecked": "2026-08-31T22:52:16.355Z",
+  "nextAutomaticCheck": "2026-09-01T04:52:16.355Z",
   "changes": [
-    "No material lifecycle change detected since the prior snapshot."
+    "OIRA meeting count changed from 51 to 50."
   ],
   "sourceHealth": [
     {
       "name": "OIRA review record",
       "ok": true,
-      "checkedAt": "2026-08-31T13:53:33.620Z",
+      "checkedAt": "2026-08-31T22:52:16.355Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eoDetails?rrid=1457213"
     },
     {
       "name": "OIRA meeting docket",
       "ok": true,
-      "checkedAt": "2026-08-31T13:53:33.620Z",
+      "checkedAt": "2026-08-31T22:52:16.355Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eom12866SearchResults?pubId=202510&rin=2120-AL82&viewRule=true&viewall=Y&view=yes"
     },
     {
       "name": "Federal Register API",
       "ok": true,
-      "checkedAt": "2026-08-31T13:53:33.620Z",
+      "checkedAt": "2026-08-31T22:52:16.355Z",
       "detail": "HTTP 200",
       "url": "https://www.federalregister.gov/api/v1/documents.json?per_page=50&order=newest&conditions%5Bterm%5D=2120-AL82"
     }
@@ -127,6 +118,15 @@
   "stale": false,
   "interpretationNote": "Automated checks detect official lifecycle events and source changes. Substantive provision analysis remains human-reviewed.",
   "history": [
+    {
+      "checkedAt": "2026-08-31T22:52:16.355Z",
+      "stage": "Final rule under OIRA review",
+      "meetingCount": 50,
+      "latestDocumentNumber": "2026-02649",
+      "changes": [
+        "OIRA meeting count changed from 51 to 50."
+      ]
+    },
     {
       "checkedAt": "2026-08-31T13:53:33.620Z",
       "stage": "Final rule under OIRA review",
@@ -327,15 +327,6 @@
     },
     {
       "checkedAt": "2026-08-24T13:14:06.164Z",
-      "stage": "Final rule under OIRA review",
-      "meetingCount": 45,
-      "latestDocumentNumber": "2026-02649",
-      "changes": [
-        "No material lifecycle change detected since the prior snapshot."
-      ]
-    },
-    {
-      "checkedAt": "2026-08-24T07:29:34.053Z",
       "stage": "Final rule under OIRA review",
       "meetingCount": 45,
       "latestDocumentNumber": "2026-02649",
