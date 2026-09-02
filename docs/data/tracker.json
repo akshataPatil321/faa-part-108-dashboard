@@ -3,7 +3,7 @@
   "overall": "Yellow",
   "oiraPending": true,
   "oiraReceivedDate": "2026-07-10",
-  "daysInOira": 53,
+  "daysInOira": 54,
   "meetingCount": 51,
   "upcomingMeetings": [
     {
@@ -77,15 +77,6 @@
       "status": "Posted",
       "organization": "Commercial Drone Alliance - Operators",
       "requestorName": "Molly Knudsen"
-    },
-    {
-      "date": "09/01/2026",
-      "dateDisplay": "09/01/2026 03:30 PM",
-      "requestor": "Experimental Aircraft Association — Margaret Colwell",
-      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1518823&acronym=2120-DOT/FAA",
-      "status": "Posted",
-      "organization": "Experimental Aircraft Association",
-      "requestorName": "Margaret Colwell"
     }
   ],
   "latestDocument": {
@@ -96,8 +87,8 @@
     "url": "https://www.federalregister.gov/documents/2026/02/10/2026-02649/normalizing-unmanned-aircraft-systems-beyond-visual-line-of-sight-operations-reopening-of-comment"
   },
   "finalRulePublished": false,
-  "lastChecked": "2026-09-01T21:03:03.956Z",
-  "nextAutomaticCheck": "2026-09-02T03:03:03.956Z",
+  "lastChecked": "2026-09-02T04:36:44.187Z",
+  "nextAutomaticCheck": "2026-09-02T10:36:44.187Z",
   "changes": [
     "No material lifecycle change detected since the prior snapshot."
   ],
@@ -105,21 +96,21 @@
     {
       "name": "OIRA review record",
       "ok": true,
-      "checkedAt": "2026-09-01T21:03:03.956Z",
+      "checkedAt": "2026-09-02T04:36:44.187Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eoDetails?rrid=1457213"
     },
     {
       "name": "OIRA meeting docket",
       "ok": true,
-      "checkedAt": "2026-09-01T21:03:03.956Z",
+      "checkedAt": "2026-09-02T04:36:44.187Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eom12866SearchResults?pubId=202510&rin=2120-AL82&viewRule=true&viewall=Y&view=yes"
     },
     {
       "name": "Federal Register API",
       "ok": true,
-      "checkedAt": "2026-09-01T21:03:03.956Z",
+      "checkedAt": "2026-09-02T04:36:44.187Z",
       "detail": "HTTP 200",
       "url": "https://www.federalregister.gov/api/v1/documents.json?per_page=50&order=newest&conditions%5Bterm%5D=2120-AL82"
     }
@@ -127,6 +118,15 @@
   "stale": false,
   "interpretationNote": "Automated checks detect official lifecycle events and source changes. Substantive provision analysis remains human-reviewed.",
   "history": [
+    {
+      "checkedAt": "2026-09-02T04:36:44.187Z",
+      "stage": "Final rule under OIRA review",
+      "meetingCount": 51,
+      "latestDocumentNumber": "2026-02649",
+      "changes": [
+        "No material lifecycle change detected since the prior snapshot."
+      ]
+    },
     {
       "checkedAt": "2026-09-01T21:03:03.956Z",
       "stage": "Final rule under OIRA review",
@@ -327,15 +327,6 @@
     },
     {
       "checkedAt": "2026-08-25T18:58:02.227Z",
-      "stage": "Final rule under OIRA review",
-      "meetingCount": 45,
-      "latestDocumentNumber": "2026-02649",
-      "changes": [
-        "No material lifecycle change detected since the prior snapshot."
-      ]
-    },
-    {
-      "checkedAt": "2026-08-25T13:12:13.374Z",
       "stage": "Final rule under OIRA review",
       "meetingCount": 45,
       "latestDocumentNumber": "2026-02649",
