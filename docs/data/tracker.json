@@ -4,8 +4,26 @@
   "oiraPending": true,
   "oiraReceivedDate": "2026-07-10",
   "daysInOira": 57,
-  "meetingCount": 51,
+  "meetingCount": 53,
   "upcomingMeetings": [
+    {
+      "date": "09/18/2026",
+      "dateDisplay": "09/18/2026 10:30 AM",
+      "requestor": "Hogan Lovells Cadwalader US LLP — Matthew Clark Requestor's Client: DRONERESPONDERS",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1521373&acronym=2120-DOT/FAA",
+      "status": "Posted",
+      "organization": "Hogan Lovells Cadwalader US LLP",
+      "requestorName": "Matthew Clark Requestor's Client: DRONERESPONDERS"
+    },
+    {
+      "date": "09/17/2026",
+      "dateDisplay": "09/17/2026 10:30 AM",
+      "requestor": "Hogan Lovells Cadwalader US LLP — Matthew Clark Requestor's Client: Northeast Unmanned Aviation Research Alliance (NUAIR)",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1518624&acronym=2120-DOT/FAA",
+      "status": "Posted",
+      "organization": "Hogan Lovells Cadwalader US LLP",
+      "requestorName": "Matthew Clark Requestor's Client: Northeast Unmanned Aviation Research Alliance (NUAIR)"
+    },
     {
       "date": "09/16/2026",
       "dateDisplay": "09/16/2026 02:00 PM",
@@ -78,37 +96,46 @@
     "url": "https://www.federalregister.gov/documents/2026/02/10/2026-02649/normalizing-unmanned-aircraft-systems-beyond-visual-line-of-sight-operations-reopening-of-comment"
   },
   "finalRulePublished": false,
-  "lastChecked": "2026-09-05T04:31:34.012Z",
-  "nextAutomaticCheck": "2026-09-05T10:31:34.012Z",
+  "lastChecked": "2026-09-05T10:37:02.265Z",
+  "nextAutomaticCheck": "2026-09-05T16:37:02.265Z",
   "changes": [
-    "No material lifecycle change detected since the prior snapshot."
+    "OIRA meeting count changed from 51 to 53."
   ],
   "sourceHealth": [
     {
       "name": "OIRA review record",
       "ok": true,
-      "checkedAt": "2026-09-05T04:31:34.012Z",
+      "checkedAt": "2026-09-05T10:37:02.265Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eoDetails?rrid=1457213"
     },
     {
       "name": "OIRA meeting docket",
       "ok": true,
-      "checkedAt": "2026-09-05T04:31:34.012Z",
+      "checkedAt": "2026-09-05T10:37:02.265Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eom12866SearchResults?pubId=202510&rin=2120-AL82&viewRule=true&viewall=Y&view=yes"
     },
     {
       "name": "Federal Register API",
-      "ok": false,
-      "checkedAt": "2026-09-05T04:31:34.012Z",
-      "detail": "HTTP 403",
+      "ok": true,
+      "checkedAt": "2026-09-05T10:37:02.265Z",
+      "detail": "HTTP 200",
       "url": "https://www.federalregister.gov/api/v1/documents.json?per_page=50&order=newest&conditions%5Bterm%5D=2120-AL82"
     }
   ],
-  "stale": true,
+  "stale": false,
   "interpretationNote": "Automated checks detect official lifecycle events and source changes. Substantive provision analysis remains human-reviewed.",
   "history": [
+    {
+      "checkedAt": "2026-09-05T10:37:02.265Z",
+      "stage": "Final rule under OIRA review",
+      "meetingCount": 53,
+      "latestDocumentNumber": "2026-02649",
+      "changes": [
+        "OIRA meeting count changed from 51 to 53."
+      ]
+    },
     {
       "checkedAt": "2026-09-05T04:31:34.012Z",
       "stage": "Final rule under OIRA review",
@@ -309,15 +336,6 @@
     },
     {
       "checkedAt": "2026-08-30T11:56:07.818Z",
-      "stage": "Final rule under OIRA review",
-      "meetingCount": 51,
-      "latestDocumentNumber": "2026-02649",
-      "changes": [
-        "No material lifecycle change detected since the prior snapshot."
-      ]
-    },
-    {
-      "checkedAt": "2026-08-30T05:26:05.666Z",
       "stage": "Final rule under OIRA review",
       "meetingCount": 51,
       "latestDocumentNumber": "2026-02649",
