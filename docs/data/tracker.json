@@ -4,8 +4,18 @@
   "oiraPending": true,
   "oiraReceivedDate": "2026-07-10",
   "daysInOira": 82,
-  "meetingCount": 58,
-  "upcomingMeetings": [],
+  "meetingCount": 59,
+  "upcomingMeetings": [
+    {
+      "date": "10/05/2026",
+      "dateDisplay": "10/05/2026 02:30 PM",
+      "requestor": "Greenberg Traurig, LLP — Matthew Satterley Requestor's Client: Gabrielle Wain, Skyways Air Transportation Inc.",
+      "url": "https://www.reginfo.gov/public/do/viewEO12866Meeting?viewRule=true&rin=2120-AL82&meetingId=1530923&acronym=2120-DOT/FAA",
+      "status": "Posted",
+      "organization": "Greenberg Traurig, LLP",
+      "requestorName": "Matthew Satterley Requestor's Client: Gabrielle Wain, Skyways Air Transportation Inc."
+    }
+  ],
   "latestDocument": {
     "title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations; Reopening of Comment Period; Denial of Extension",
     "number": "2026-02649",
@@ -14,30 +24,30 @@
     "url": "https://www.federalregister.gov/documents/2026/02/10/2026-02649/normalizing-unmanned-aircraft-systems-beyond-visual-line-of-sight-operations-reopening-of-comment"
   },
   "finalRulePublished": false,
-  "lastChecked": "2026-09-30T05:34:34.645Z",
-  "nextAutomaticCheck": "2026-09-30T11:34:34.645Z",
+  "lastChecked": "2026-09-30T12:36:59.028Z",
+  "nextAutomaticCheck": "2026-09-30T18:36:59.028Z",
   "changes": [
-    "No material lifecycle change detected since the prior snapshot."
+    "OIRA meeting count changed from 58 to 59."
   ],
   "sourceHealth": [
     {
       "name": "OIRA review record",
       "ok": true,
-      "checkedAt": "2026-09-30T05:34:34.645Z",
+      "checkedAt": "2026-09-30T12:36:59.028Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eoDetails?rrid=1457213"
     },
     {
       "name": "OIRA meeting docket",
       "ok": true,
-      "checkedAt": "2026-09-30T05:34:34.645Z",
+      "checkedAt": "2026-09-30T12:36:59.028Z",
       "detail": "HTTP 200",
       "url": "https://www.reginfo.gov/public/do/eom12866SearchResults?pubId=202510&rin=2120-AL82&viewRule=true&viewall=Y&view=yes"
     },
     {
       "name": "Federal Register API",
       "ok": true,
-      "checkedAt": "2026-09-30T05:34:34.645Z",
+      "checkedAt": "2026-09-30T12:36:59.028Z",
       "detail": "HTTP 200",
       "url": "https://www.federalregister.gov/api/v1/documents.json?per_page=50&order=newest&conditions%5Bterm%5D=2120-AL82"
     }
@@ -45,6 +55,15 @@
   "stale": false,
   "interpretationNote": "Automated checks detect official lifecycle events and source changes. Substantive provision analysis remains human-reviewed.",
   "history": [
+    {
+      "checkedAt": "2026-09-30T12:36:59.028Z",
+      "stage": "Final rule under OIRA review",
+      "meetingCount": 59,
+      "latestDocumentNumber": "2026-02649",
+      "changes": [
+        "OIRA meeting count changed from 58 to 59."
+      ]
+    },
     {
       "checkedAt": "2026-09-30T05:34:34.645Z",
       "stage": "Final rule under OIRA review",
@@ -245,15 +264,6 @@
     },
     {
       "checkedAt": "2026-09-24T04:53:28.275Z",
-      "stage": "Final rule under OIRA review",
-      "meetingCount": 55,
-      "latestDocumentNumber": "2026-02649",
-      "changes": [
-        "No material lifecycle change detected since the prior snapshot."
-      ]
-    },
-    {
-      "checkedAt": "2026-09-23T21:31:02.900Z",
       "stage": "Final rule under OIRA review",
       "meetingCount": 55,
       "latestDocumentNumber": "2026-02649",
